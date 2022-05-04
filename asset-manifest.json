@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/PetbookProject/static/css/main.18bf49ff.chunk.css",
-    "main.js": "/PetbookProject/static/js/main.c76f8a1f.chunk.js",
-    "main.js.map": "/PetbookProject/static/js/main.c76f8a1f.chunk.js.map",
+    "main.js": "/PetbookProject/static/js/main.198c548e.chunk.js",
+    "main.js.map": "/PetbookProject/static/js/main.198c548e.chunk.js.map",
     "runtime-main.js": "/PetbookProject/static/js/runtime-main.3ec80a6f.js",
     "runtime-main.js.map": "/PetbookProject/static/js/runtime-main.3ec80a6f.js.map",
     "static/js/2.30d5f124.chunk.js": "/PetbookProject/static/js/2.30d5f124.chunk.js",
     "static/js/2.30d5f124.chunk.js.map": "/PetbookProject/static/js/2.30d5f124.chunk.js.map",
     "index.html": "/PetbookProject/index.html",
     "static/css/main.18bf49ff.chunk.css.map": "/PetbookProject/static/css/main.18bf49ff.chunk.css.map",
-    "static/js/2.30d5f124.chunk.js.LICENSE.txt": "/PetbookProject/static/js/2.30d5f124.chunk.js.LICENSE.txt"
+    "static/js/2.30d5f124.chunk.js.LICENSE.txt": "/PetbookProject/static/js/2.30d5f124.chunk.js.LICENSE.txt",
+    "static/media/dogvid.c258b0bf.mp4": "/PetbookProject/static/media/dogvid.c258b0bf.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.3ec80a6f.js",
     "static/js/2.30d5f124.chunk.js",
     "static/css/main.18bf49ff.chunk.css",
-    "static/js/main.c76f8a1f.chunk.js"
+    "static/js/main.198c548e.chunk.js"
   ]
 }
